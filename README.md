@@ -1,2 +1,2 @@
 # Python-Learning
-Everything I did while learning Python
+Everything I learned and created while learning Python 
